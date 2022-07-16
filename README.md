@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning blockchain
 - 😄 Pronouns: She/Her
-[![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akankshat05)](https://github.com/akankshat05/github-readme-stats&hide=stars&count_private=true&show_icons=true&theme=cobalt)
+- [![Akanksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=akankshat05)](https://github.com/akankshat05/github-readme-stats&count_private=true&show_icons=true&theme=cobalt)
